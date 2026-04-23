@@ -1,0 +1,8 @@
+2026-04-23 12:56:19 [main] INFO  com.p2p.service.LoanService - Memulai proses pengajuan peminjaman dengan jumlah 700
+2026-04-23 12:56:19 [main] WARN  com.p2p.service.LoanService - Pinjaman Ditolak, Credit skor kurang dari 600
+2026-04-23 12:56:19 [main] INFO  com.p2p.service.LoanService - Memulai proses pengajuan peminjaman dengan jumlah 700
+2026-04-23 12:56:19 [main] INFO  com.p2p.service.LoanService - Pinjaman Diterima
+2026-04-23 12:56:19 [main] INFO  com.p2p.service.LoanService - Memulai proses pengajuan peminjaman dengan jumlah 0
+2026-04-23 12:56:19 [main] ERROR com.p2p.service.LoanService - Gagal melakukan peminjaman karna amount kurang dari sama dengan 0
+2026-04-23 12:56:19 [main] INFO  com.p2p.service.LoanService - Memulai proses pengajuan peminjaman dengan jumlah 1000
+2026-04-23 12:56:19 [main] ERROR com.p2p.service.LoanService - Borrower tidak terverifikasi!
